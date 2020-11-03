@@ -1,0 +1,64 @@
+body{
+  background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+}
+
+.container
+{
+  width: 800px;
+  margin: 0 auto;
+  color: white
+}
+
+.logo{
+  width: 120px;
+  vertical-align: middle;
+}
+
+.titolo{
+  display: inline;
+}
+
+.avviso{
+  font-size: 30px;
+  margin-top: 10px;
+  margin-bottom: 15px
+}
+
+.cerchio{
+  background: orange;
+  border-radius: 50%;
+  padding: 7px;
+  vertical-align: middle;
+}
+
+.riga{
+  border: 1px solid black;
+  color: black;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  background: white
+}
+
+.lette{
+  background: lightgrey
+}
+
+.oggetto{
+  font-size: 17px
+}
+
+.testo{
+  color: grey;
+}
+
+footer{
+  text-align: center;
+}
+
+.inizio-firma{
+  font-size: 25px;
+}
+
+.fine-firma{
+  font-style: italic;
+}
